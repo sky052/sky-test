@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rsp stat="ok">
+<photosets cancreate="1" page="1" pages="1" perpage="30" total="10">
+	<photoset id="72177720330814178" owner="95571836@N04" username="hkuno9000" primary="54972076397" secret="e068c6b7d5" server="65535" farm="66" count_views="0" count_comments="0" count_photos="1" count_videos="0" can_comment="1" date_create="1765263845" date_update="0" sorting_option_id="manual-add-to-end" photos="1" videos="0" visibility_can_see_set="1" needs_interstitial="0">
+		<title>2025-12-09</title>
+		<description />
+	</photoset>
+	<photoset id="72177720298182555" owner="95571836@N04" username="hkuno9000" primary="52011686729" secret="9c648674ae" server="65535" farm="66" count_views="0" count_comments="0" count_photos="2" count_videos="0" can_comment="1" date_create="1650232823" date_update="1650236423" sorting_option_id="manual-add-to-end" photos="2" videos="0" visibility_can_see_set="1" needs_interstitial="0">
+		<title>2022-04-18</title>
+		<description />
+	</photoset>
+	<photoset id="72177720298162598" owner="95571836@N04" username="hkuno9000" primary="52009589250" secret="d7193605c5" server="65535" farm="66" count_views="1" count_comments="0" count_photos="20" count_videos="0" can_comment="1" date_create="1650146422" date_update="1650222028" sorting_option_id="manual-add-to-end" photos="20" videos="0" visibility_can_see_set="1" needs_interstitial="0">
+		<title>2022-04-17</title>
+		<description />
+	</photoset>
+	<photoset id="72177720298143209" owner="95571836@N04" username="hkuno9000" primary="52007518195" secret="522d4643b3" server="65535" farm="66" count_views="0" count_comments="0" count_photos="20" count_videos="0" can_comment="1" date_create="1650060026" date_update="1650135626" sorting_option_id="manual-add-to-end" photos="20" videos="0" visibility_can_see_set="1" needs_interstitial="0">
+		<title>2022-04-16</title>
+		<description />
+	</photoset>
+	<photoset id="72177720298122434" owner="95571836@N04" username="hkuno9000" primary="52005099211" secret="387d200596" server="65535" farm="66" count_views="0" count_comments="0" count_photos="18" count_videos="0" can_comment="1" date_create="1649980825" date_update="1650049224" sorting_option_id="manual-add-to-end" photos="18" videos="0" visibility_can_see_set="1" needs_interstitial="0">
+		<title>2022-04-15</title>
+		<description />
+	</photoset>
+	<photoset id="72177720298098466" owner="95571836@N04" username="hkuno9000" primary="52003658321" secret="097c8124b7" server="65535" farm="66" count_views="0" count_comments="0" count_photos="2" count_videos="0" can_comment="1" date_create="1649923050" date_update="1649923341" sorting_option_id="manual-add-to-end" photos="2" videos="0" visibility_can_see_set="1" needs_interstitial="0">
+		<title>2022-04-14</title>
+		<description />
+	</photoset>
+	<photoset id="72177720298019433" owner="95571836@N04" username="hkuno9000" primary="51995166102" secret="b4d0f95928" server="65535" farm="66" count_views="0" count_comments="0" count_photos="3" count_videos="0" can_comment="1" date_create="1649642261" date_update="1649642425" sorting_option_id="manual-add-to-end" photos="3" videos="0" visibility_can_see_set="1" needs_interstitial="0">
+		<title>2022-04-11</title>
+		<description />
+	</photoset>
+	<photoset id="72177720297730143" owner="95571836@N04" username="hkuno9000" primary="51970705504" secret="6b08f0697a" server="65535" farm="66" count_views="0" count_comments="0" count_photos="1" count_videos="0" can_comment="1" date_create="1648619589" date_update="0" sorting_option_id="manual-add-to-end" photos="1" videos="0" visibility_can_see_set="1" needs_interstitial="0">
+		<title>2022-03-30</title>
+		<description />
+	</photoset>
+	<photoset id="72177720296870364" owner="95571836@N04" username="hkuno9000" primary="51895860582" secret="5393683d14" server="65535" farm="66" count_views="0" count_comments="0" count_photos="3" count_videos="0" can_comment="1" date_create="1645522651" date_update="1645523064" sorting_option_id="manual-add-to-end" photos="3" videos="0" visibility_can_see_set="1" needs_interstitial="0">
+		<title>2022-02-22</title>
+		<description />
+	</photoset>
+	<photoset id="72157709525788492" owner="95571836@N04" username="hkuno9000" primary="48237391151" secret="4d127e5810" server="65535" farm="66" count_views="2" count_comments="0" count_photos="1" count_videos="0" can_comment="1" date_create="1562641996" date_update="1562661710" sorting_option_id="manual-add-to-end" photos="1" videos="0" visibility_can_see_set="1" needs_interstitial="0">
+		<title>2019-07-09</title>
+		<description />
+	</photoset>
+</photosets>
+</rsp>
